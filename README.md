@@ -1,8 +1,9 @@
-# myapp
+# Layout Responsivo 
 
-A new Flutter project.
+Aplicativo web simples. Desenvolvido para cumprir atividade 02, Talento Tech.
+Professor: Ariangelo Dias - Desenvolvimento Web
 
-## Getting Started
+## Kettellenn Mendes
 
 This project is a starting point for a Flutter application.
 
